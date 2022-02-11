@@ -1,7 +1,8 @@
 #Hi there 👋
 ## Im Front-end junior developer
 ## My stack
-![](https://nuxtjs.org/design-kit/colored-logo.svg) - 6 months
+![](https://nuxtjs.org/design-kit/colored-logo.svg)
+   6 months
 
 <!--
 **samarcev/samarcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
