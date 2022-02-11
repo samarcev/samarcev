@@ -1,7 +1,9 @@
 # Hi there 👋
-## Im Front-end junior developer
-## My stack
-![](https://svgshare.com/i/e8F.svg) ![](https://nuxtjs.org/design-kit/colored-logo.svg) ![]()
+
+## Im Front-end junior developer in ["Web строитель"](https://web-str.ru) company
+____
+My stack
+![](https://svgshare.com/i/e8F.svg 100px 100px) ![](https://nuxtjs.org/design-kit/colored-logo.svg) ![]()
 
 
 <!--
