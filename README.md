@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-### Im Front-end junior developer in ["Web строитель"](https://web-str.ru) company
+### Im Front-end junior developer in *["Web строитель"](https://web-str.ru)*
 ____
-```
-![](https://svgshare.com/i/e8F.svg) 
-![](https://nuxtjs.org/design-kit/colored-logo.svg)
-```
-____
+
 <!--
 **samarcev/samarcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
