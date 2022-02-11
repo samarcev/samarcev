@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Im Front-end junior developer
 ## My stack
-![](https://nuxtjs.org/design-kit/colored-logo.svg)
+![](https://svgshare.com/i/e8F.svg) ![](https://nuxtjs.org/design-kit/colored-logo.svg) ![]()
 
 
 <!--
