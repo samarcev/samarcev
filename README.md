@@ -1,4 +1,7 @@
-### Hi there 👋
+#Hi there 👋
+## Im Front-end junior developer
+## My stack
+![](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg) ![](https://nuxtjs.org/design-kit/colored-logo.svg)
 
 <!--
 **samarcev/samarcev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
