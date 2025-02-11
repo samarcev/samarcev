@@ -1,16 +1,17 @@
-<p>
+<p align="center">
 <img
 align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=samarcev&show_icons=true&locale=en&layout=compact"
 alt="samarcev"
 />
 </p>
-<p align="left">
+<p align="center">
 <img
 src="https://komarev.com/ghpvc/?username=samarcev&label=Profile%20views&color=0e75b6&style=flat"
 alt="samarcev"
 />
 </p>
+<div align="center">
 <h4>Frameforks:</h4>
 <span>
     <img
@@ -28,3 +29,4 @@ alt="samarcev"
       height="40"
     />
 </span>
+</div>
