@@ -1,4 +1,4 @@
-<h1 align="center">Добро пожаловать👋</h1>
+<h1 align="center">👋</h1>
 
 ###
 
